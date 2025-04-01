@@ -1,0 +1,4 @@
+rootProject.name = 'httpd'
+include 'client'
+include 'server'
+
